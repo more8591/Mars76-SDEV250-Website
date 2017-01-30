@@ -1,0 +1,27 @@
+.center {
+    margin: auto;
+    width: 75%;
+    padding: 30px;
+	background-color: white;
+	margin-top: 30px;
+	height: 100%;
+	font-family: Arial;
+	font-size: 30px;
+	word-wrap: break-word;
+	color: #444;
+}
+
+.centerLogo {
+	margin: auto;
+    width: 75%;
+    padding: 5px;
+	font-family: Arial;
+	font-size: 100px;
+	text-align: center;
+	
+}
+
+.background {
+	background-color:  #e07d41;
+
+}
